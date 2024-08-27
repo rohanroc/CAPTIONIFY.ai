@@ -1,1 +1,2 @@
 npm i @clerk/clerk-react @headlessui/react @heroicons/react
+npm i framer-motion clsx tailwind-merge
