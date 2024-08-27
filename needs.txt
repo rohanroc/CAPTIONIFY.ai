@@ -1,0 +1,1 @@
+npm i @clerk/clerk-react @headlessui/react @heroicons/react
