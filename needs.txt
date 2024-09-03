@@ -1,2 +1,4 @@
 npm i @clerk/clerk-react @headlessui/react @heroicons/react
 npm i framer-motion clsx tailwind-merge
+npm i framer-motion clsx tailwind-merge @tabler/icons-react react-dropzone
+npm install flowbite
